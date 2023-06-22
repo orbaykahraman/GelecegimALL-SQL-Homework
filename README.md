@@ -1,3 +1,3 @@
 # Patika.dev-GelecegimALL-HOMEWORKS
 
-**Burada ödev çalışmaları yer alacaktır.**
+**Patika GelecegimALL kapsamında yapılmış olan SQL proje çalışması burada yer almaktadır.**
