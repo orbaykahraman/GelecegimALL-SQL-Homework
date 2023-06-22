@@ -2,12 +2,12 @@
 
 **Patika GelecegimALL kapsamında yapılmış olan SQL proje çalışması burada yer almaktadır.**
 
-#SQL Ödevi
+# SQL Ödevi
 
-##Hedef
+## Hedef
 Basit bir veritabanı oluşturup verilerimizi ekledikten sonra öğrendiklerimizi tekrar edeceğimiz
 sorgular oluşturmak ve pratik yapmak.
-##Konu
+## Konu
 Basit bir blog veritabanı tasarlamanız gerekiyor. Bu veritabanında users, posts, categories
 ve comments tablolarımız yer alacak. Tabloların alan bilgileri şu şekilde olmalıdır.
 
@@ -25,7 +25,7 @@ ve comments tablolarımız yer alacak. Tabloların alan bilgileri şu şekilde o
 |              |is_published   |             |                |  
 
 
-###Tabloların Veri Yapısı ve Kısıtlamalar
+### Tabloların Veri Yapısı ve Kısıtlamalar
 
 1. Belirtilen tabloların hepsinde tablo ismine ait id bilgisi PRIMARY KEY olmalıdır.
 Tablolar arasında FOREIGN KEY ile referans verilerek ilişki kurulmalıdır.
@@ -46,7 +46,7 @@ kısıtlanmalıdır.
 11. Yorumlar (comment) kullanıcı (user) bilgisi içerebilir veya içermeyebilirler.
 -------------------------------------------------
 
-###Tablodaki Veriler
+### Tablodaki Veriler
 
 1. users tablosunda minimum 2 kullanıcı bulunmalıdır.
 2. posts tablosunda farklı kategorilerde, farklı görüntülenme sayılarında ve farklı
@@ -57,7 +57,7 @@ olmayan toplam minimum 250 yorum bulunmalıdır.
 5. Verilerin creation_date bilgileri birbirinden farklı olmalıdır.
 
 --------------------------------------------------------------
-###Veritabanında Gerçekleştirmek İstediğimiz İşlemler
+### Veritabanında Gerçekleştirmek İstediğimiz İşlemler
 1. Tüm blog yazılarını başlıkları, yazarları ve kategorileriyle birlikte getirin.
 2. En son yayınlanan 5 blog yazısını başlıkları, yazarları ve yayın tarihleriyle birlikte
 alın.
